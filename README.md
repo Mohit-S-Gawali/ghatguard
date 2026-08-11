@@ -81,12 +81,12 @@ This project builds on established research areas — **delay-tolerant networks 
 
 ## Documentation
 
-- [Research Paper](docs/research-paper.pdf)
+- [Research Paper](docs/research-paper.md)
 
 ## Author
 
 **Mohit Gawali** — 2nd Year CSE, Sipna College of Engineering and Technology, Maharashtra
 
-## License
+## Copyright
 
-MIT License — see [LICENSE](LICENSE)
+© 2026 Mohit Gawali. All rights reserved. See [COPYRIGHT](COPYRIGHT).
