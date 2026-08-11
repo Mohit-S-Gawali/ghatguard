@@ -1,0 +1,27 @@
+# Android build
+*.iml
+.gradle/
+/local.properties
+/.idea/
+/build/
+/app/build/
+/captures
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+
+# Kotlin
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Environment
+.env
+*.local
